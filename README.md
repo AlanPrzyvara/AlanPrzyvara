@@ -1,6 +1,9 @@
 ## Olá! Eu me chamo Alan Przyvara 🖐️
 
-![Alan GitHub stats](https://github-readme-stats.vercel.app/api?username=YiipHuhu&show_icons=true&theme=nightowl&count_private=true)
+![Alan GitHub status](https://github-readme-stats.vercel.app/api?username=YiipHuhu&show_icons=true&theme=nightowl&count_private=true)
+
+![Linguagens utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=YiipHuhu&layout=compact)
+
 ## Linguagens que utilizo no meu dia a dia:
 
 <div style="display: inline_block">
