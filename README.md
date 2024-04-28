@@ -1,8 +1,12 @@
 ## Olá! Eu me chamo Alan Przyvara 🖐️
+ <div>
+  <a href="https://github.com/Romerozito">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YiipHuhu&show_icons=true&theme=nightowl&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiipHuhu&layout=nightowl"/>
+    <br>
+  </div>
 
-![Alan GitHub stats](https://github-readme-stats.vercel.app/api?username=YiipHuhu&show_icons=true&theme=nightowl&count_private=true)
 
-![Linguagens utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=YiipHuhu&layout=compact)
 
 ## Linguagens que utilizo no meu dia a dia:
 
