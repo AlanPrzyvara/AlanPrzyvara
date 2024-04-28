@@ -2,9 +2,10 @@
  <div>
   <a href="https://github.com/Romerozito">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YiipHuhu&show_icons=true&theme=nightowl&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiipHuhu&layout=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiipHuhu&layout=compact&langs_count=7&theme=nightowl"/>
     <br>
   </div>
+
 ## Linguagens que utilizo no meu dia a dia:
 
 <div style="display: inline_block">
