@@ -1,8 +1,8 @@
 ## Olá! Eu me chamo Alan Przyvara 🖐️
  <div>
-  <a href="https://github.com/YiipHuhu">
-  <!==<img height="200em" src="https://github-readme-stats.vercel.app/api?username=YiipHuhu&show_icons=true&theme=nightowl&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiipHuhu&layout=compact&langs_count=7&theme=nightowl"/>
+  <a href="https://github.com/AlanPrzyvara">
+  <!==<img height="200em" src="https://github-readme-stats.vercel.app/api?username=AlanPrzyvara&show_icons=true&theme=nightowl&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanPrzyvara&layout=compact&langs_count=7&theme=nightowl"/>
     <br>
   </div>
 
