@@ -17,3 +17,6 @@
 </div><br/>
 
 Comecei a programar mods de Minecraft em Java quando tinha 12 anos de idade, desde então, sempre gostei de programação.
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlanPrzyvara&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
