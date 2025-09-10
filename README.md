@@ -1,7 +1,7 @@
 ## Olá! Eu me chamo Alan Przyvara 🖐️
- <div>
+<div>
   <a href="https://github.com/AlanPrzyvara">
-  <!==<img height="200em" src="https://github-readme-stats.vercel.app/api?username=AlanPrzyvara&show_icons=true&theme=nightowl&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AlanPrzyvara&show_icons=true&theme=nightowl&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanPrzyvara&layout=compact&langs_count=7&theme=nightowl"/>
     <br>
   </div>
@@ -22,3 +22,5 @@ Comecei a programar mods de Minecraft em Java quando tinha 12 anos de idade, des
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlanPrzyvara&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+[![Holopin profile](https://holopin.me/alanprzyvara)](https://holopin.io/@alanprzyvara)
