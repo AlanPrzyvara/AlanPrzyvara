@@ -3,7 +3,7 @@
 🚀 Sobre mim 
 
 Comecei na programação criando mods de Minecraft em Java aos 12 anos.
-Desde então sigo evoluindo, hoje trabalhando com Ruby on Rails, React, qualidade de software e tudo o que envolve criar e melhorar sistemas.<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
+Desde então sigo evoluindo, hoje trabalhando com Ruby on Rails, React, EXPO, Kotlin, qualidade de software e tudo o que envolve criar e melhorar sistemas.<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
 
 
 Amo aprender, experimentar e construir novas ideias!
